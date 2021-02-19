@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb://foysol:krypton@contactkeeper-shard-00-00.ndibz.mongodb.net:27017,contactkeeper-shard-00-01.ndibz.mongodb.net:27017,contactkeeper-shard-00-02.ndibz.mongodb.net:27017/contactKeeper?ssl=true&replicaSet=atlas-13r7m7-shard-0&authSource=admin&retryWrites=true&w=majority",
+    "jwtSecret": "hush"
+}
