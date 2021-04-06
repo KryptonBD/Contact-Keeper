@@ -9,7 +9,3 @@ node_modules/
 /client/.env.production.local
 
 npm-debug.log*
-
-#temporary
-/config/production.json
-/config/default.json
